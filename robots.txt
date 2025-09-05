@@ -5,4 +5,4 @@ Disallow: /login/
 Disallow: /private/
 
 # Sitemap location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://sarkari-result-one.vercel.app/sitemap.xml
