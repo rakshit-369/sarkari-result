@@ -264,6 +264,7 @@ body{
   .tool-card { font-size: 12px; padding: 8px; }
   .kv-table th, .kv-table td { padding: 8px; font-size:13px; }
 }
+#datesTable{color: rebeccapurple;}
 
 /* utility helpers */
 .text-muted { color: var(--muted) }
