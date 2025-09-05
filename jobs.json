@@ -19,11 +19,12 @@
 
   "admitCards": [
     { "title": "UPSSSC ADMIT CARD 2025", "link": "page.html?category=admit&slug=upsssc-pet-admit-2025" },
-    { "title": "SSC CGL Tier – I Exam City Details 2025", "link": "#" },
-    { "title": "RRB NTPC 10+2 Inter Level Admit Card / Exam City Details 2025 – Out", "link": "#" },
-    { "title": "IB ACIO Gr-II Executive Exam City Details 2025 – Out", "link": "#" },
-    { "title": "MPESB Excise Constable Admit Card 2025 – Out", "link": "#" },
-    { "title": "UPSSSC Homoeopathic Pharmacist 09/2024 DV Letter", "link": "#" },
+    { "title": "SSC CGL Tier – I Exam City Details 2025", "link": "page.html?category=admit&slug=ssc-cgl-city-2025" },
+    { "title": "RRB NTPC 10+2 Inter Level Admit Card / Exam City Details 2025 – Out", "link": "page.html?category=admit&slug=rrb-ntpc-10-12-admit-2025" },
+    { "title": "IB ACIO Gr-II Executive Exam City Details 2025 – Out", "link": "page.html?category=admit&slug=upsssc-pet-admit-2025" },
+    { "title": "MPESB Excise Constable Admit Card 2025 – Out", "link": "page.html?category=admit&slug=upsssc-pet-admit-2025" },
+    { "title": "UPSSSC Homoeopathic Pharmacist 09/2024 DV Letter", "link": "" },
+
     { "title": "UPSC EPFO Exam Date 2025 – Out", "link": "#" },
     { "title": "Indian Coast Guard AC 01/2027 Batch Exam City Details 2025 – Out", "link": "#" },
     { "title": "UPSC CDS-II Admit Card 2025 – Out", "link": "#" },

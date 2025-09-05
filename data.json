@@ -33,36 +33,75 @@
         {"title":"Apply Online","link":"#"}
       ]
     },
-    {
-      "slug":"ssc-cgl-city-2025",
-      "title":"SSC CGL Tier-I Exam City Details 2025",
-      "postDate":"September 5, 2025",
-      "time":"11:01 am",
-      "excerpt":"SSC released Exam City Details for CGL Tier-I 2025. Exam 12–26 Sep 2025.",
-      "importantDates":{
-        "Online Apply Start Date":"09 June 2025",
-        "Online Apply Last Date":"04 July 2025",
-        "Last Date For Fee Payment":"05 July 2025",
-        "Correction Date":"09-11 July 2025",
-        "Exam Date":"12–26 September 2025",
-        "Exam City Details":"03 September 2025",
-        "Admit Card":"Before Exam",
-        "Result":"Will Be Updated"
-      },
-      "fees":{
-        "General/OBC/EWS":"₹100",
-        "SC/ST/Female":"₹0",
-        "PH Candidates":"₹0"
-      },
-      "content":"<p>To check exam city details login with Registration Number / Enrollment Number or DOB on the SSC portal and download city intimation slip.</p>",
-      "links":[
-        {"title":"Check Exam City Details","link":"#"},
-        {"title":"Official Website","link":"https://ssc.nic.in"}
-      ],
-      "quickLinks":[
-        {"title":"SSC Home","link":"https://ssc.nic.in"}
-      ]
-    }
+   {
+  "slug": "ssc-cgl-city-2025",
+  "title": "SSC CGL Tier-I Exam City Details 2025",
+  "postDate": "September 5, 2025",
+  "time": "11:01 am",
+  "excerpt": "SSC released Exam City Details for CGL Tier-I 2025. Exam 12–26 Sep 2025.",
+  "importantDates": {
+    "Online Apply Start Date": "09 June 2025",
+    "Online Apply Last Date": "04 July 2025",
+    "Last Date For Fee Payment": "05 July 2025",
+    "Correction Date": "09-11 July 2025",
+    "Exam Date": "12–26 September 2025",
+    "Exam City Details": "03 September 2025",
+    "Admit Card": "Before Exam",
+    "Result": "Will Be Updated"
+  },
+  "fees": {
+    "General/OBC/EWS": "₹100",
+    "SC/ST/Female": "₹0",
+    "PH Candidates": "₹0"
+  },
+  "content": "<p>Staff Selection Commission (SSC) has released the Exam City Details for the SSC CGL Tier-I Exam 2025. Candidates can check their Exam City Details using Registration Number, Enrollment Number, or Date of Birth by logging into the official SSC portal. Download the City Intimation Slip and take a printout for reference. For age limits, eligibility, and vacancy details, check the official SSC notification.</p>",
+  "links": [
+    { "title": "Check Exam City Details", "link": "#" },
+    { "title": "Official Website", "link": "https://ssc.nic.in" }
+  ],
+  "quickLinks": [
+    { "title": "SSC Home", "link": "https://ssc.nic.in" }
+  ]
+},
+{
+  "slug": "rrb-ntpc-10-12-admit-2025",
+  "title": "RRB NTPC 10+2 Inter Level Admit Card / Exam City Details 2025",
+  "postDate": "September 5, 2025",
+  "time": "11:01 am",
+  "excerpt": "Railway Recruitment Board (RRB) released Admit Card for NTPC 10+2 Inter Level Posts. Exam from 07 August – 08 September 2025.",
+  "importantDates": {
+    "Online Apply Start Date": "21 September 2024",
+    "Online Apply Last Date": "27 October 2024",
+    "Fee Payment Last Date": "29 October 2024",
+    "Correction / Modified Form": "30 September 2024 to 06 November 2024",
+    "Exam Date": "07 August – 08 September 2025",
+    "Exam City Details": "29 July 2025",
+    "Admit Card": "04 August 2025",
+    "Result": "Will be updated here soon"
+  },
+  "fees": {
+    "General/OBC/EWS": "₹500",
+    "SC/ST/PH": "₹250",
+    "All Category Female": "₹250",
+    "Fee Refund General": "₹400",
+    "Fee Refund OBC/EWS/SC/ST/PH": "₹250",
+    "Fee Refund All Category Female": "₹250"
+  },
+  "content": "<p>Railway Recruitment Board (RRB) has released Admit Card for NTPC 10+2 Inter Level Posts. Candidates can check their Exam Date and Admit Card details using Enrollment Number / Registration Number / Date of Birth by logging into the official RRB portal. Download the admit card and take a printout for exam day reference. For eligibility, age limits, and vacancy details, check the official notification.</p>",
+  "links": [
+    { "title": "Download Admit Card", "link": "#" },
+    { "title": "Check Application Status Link", "link": "#" },
+    { "title": "Check Exam City Details", "link": "#" },
+    { "title": "Mock Test Link", "link": "#" },
+    { "title": "Check Official Notification", "link": "#" },
+    { "title": "Railway RRB Official Website", "link": "https://indianrailways.gov.in/" }
+  ],
+  "quickLinks": [
+    { "title": "RRB NTPC Home", "link": "https://indianrailways.gov.in/" }
+  ]
+}
+
+
   ],
   "jobs": [],
   "results": []
