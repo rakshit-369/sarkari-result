@@ -66,6 +66,9 @@ function renderNotification(obj){
     }
     feeTable.innerHTML = html;
   }
+  //qualification
+  const edu = document.getElementById('edu');
+  edu.innerHTML = safeHTML(obj.edu || '');
 
   // long content
   const content = document.getElementById('content');

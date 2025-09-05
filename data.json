@@ -110,7 +110,50 @@
   "quickLinks": [
     { "title": "RRB NTPC Home", "link": "https://indianrailways.gov.in/" }
   ]
+},
+{
+  "slug": "rrb-ntpc-10-12-admit-2025",
+  "title": "RRB NTPC 10+2 Inter Level Admit Card / Exam City Details 2025 – Out",
+  "postDate": "September 5, 2025",
+  "time": "11:01 am",
+  "excerpt": "Railway Recruitment Board (RRB) released Admit Card for NTPC 10+2 Inter Level Posts. Exam from 07 August – 08 September 2025.",
+  "importantDates": {
+    "Online Apply Start Date": "21 September 2024",
+    "Online Apply Last Date": "27 October 2024",
+    "Fee Payment Last Date": "29 October 2024",
+    "Correction / Modified Form": "30 September 2024 to 06 November 2024",
+    "Exam Date": "07 August – 08 September 2025",
+    "Exam City Details": "29 July 2025",
+    "Admit Card": "04 August 2025",
+    "Result": "Will be updated here soon"
+  },
+  "ageLimit": {
+    "Minimum age": "18",
+    "Maximum age": "33"
+  },
+  "fees": {
+    "General/OBC/EWS": "₹500",
+    "SC/ST/PH": "₹250",
+    "All Category Female": "₹250",
+    "Fee Refund General": "₹400",
+    "Fee Refund OBC/EWS/SC/ST/PH": "₹250",
+    "Fee Refund All Category Female": "₹250"
+  },
+  "edu":"<p>1.12 pass \n 2.Bachlor degree</p?",
+  "content": "<p>Railway Recruitment Board (RRB) has released Admit Card for NTPC 10+2 Inter Level Posts. Candidates can check their Exam Date and Admit Card details using Enrollment Number / Registration Number / Date of Birth by logging into the official portal. Download the admit card and take a printout for exam day reference. For eligibility, age limits, vacancy details, and selection process, check the official notification.</p>",
+  "links": [
+    {"title":"Download Admit Card","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
+    {"title":"Check Application Status Link","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
+    {"title":"Check Exam City Details","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
+    {"title":"Apply Online","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
+    {"title":"Check Official Notification","link":"https://www.rrbapply.gov.in/assets/forms/CEN_06-2024_NTPC_UnderGraduate_a11y.pdf"},
+    {"title":"Railway RRB Official Website","link":"https://indianrailways.gov.in/"}
+  ],
+  "quickLinks": [
+    {"title":"RRB NTPC Home","link":"https://indianrailways.gov.in/"}
+  ]
 }
+
 
 
   ],
