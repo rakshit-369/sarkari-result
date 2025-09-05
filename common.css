@@ -7,11 +7,11 @@
 
 /* ========== COLORS & VARS ========== */
 :root{
-  --primary: #ec8611;      /* blue primary */
-  --accent:  #d32f2f;      /* red accent (hover etc) */
+  --primary: #bee727;      /* blue primary */
+  --accent:  #e5a6e5;      /* red accent (hover etc) */
   --muted:   #6b7280;      /* secondary text */
   --bg:      #d9e9f8;      /* page background */
-  --card:    #faafaf;      /* card background */
+  --card:    #f5f82363;      /* card background */
   --glass:   rgba(255,255,255,0.90);
   --maxw:    1200px;
   --radius:  12px;
@@ -59,7 +59,7 @@ body{
   justify-content: space-between;
   gap: 12px;
   padding: 0 16px;
-  background: #c91a1a; /* dark */
+  background: #57e2f5; /* dark */
   color: #fff;
   z-index: 1200;
   box-shadow: 0 3px 10px rgba(2,6,23,0.12);
