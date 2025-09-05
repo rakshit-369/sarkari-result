@@ -15,6 +15,10 @@
         "Admit Card": "01 September 2025",
         "Result": "Will Be Updated"
       },
+      "ageLimit": {
+        "Minimum age": "18",
+        "Maximum age": "25"
+      },
       "fees": {
         "General/OBC": "₹185",
         "SC/ST": "₹95",
@@ -49,6 +53,10 @@
     "Admit Card": "Before Exam",
     "Result": "Will Be Updated"
   },
+    "ageLimit": {
+        "Minimum age": "18",
+        "Maximum age": "25"
+      },
   "fees": {
     "General/OBC/EWS": "₹100",
     "SC/ST/Female": "₹0",
@@ -79,6 +87,10 @@
     "Admit Card": "04 August 2025",
     "Result": "Will be updated here soon"
   },
+    "ageLimit": {
+        "Minimum age": "18",
+        "Maximum age": "25"
+      },
   "fees": {
     "General/OBC/EWS": "₹500",
     "SC/ST/PH": "₹250",
@@ -102,6 +114,42 @@
 
 
   ],
-  "jobs": [],
+  "jobs": [{
+      "slug": "upsssc-pet-admit-2025",
+      "title": "UPSSSC PET Admit Card 2025 – Out",
+      "postDate": "September 5, 2025",
+      "time": "11:01 am",
+      "excerpt": "UPSSSC ने Preliminary Examination Test (PET) Admit Card 2025 जारी कर दिया है. Exam dates: 06-07 Sep 2025.",
+      "importantDates": {
+        "Application Start": "14 May 2025",
+        "Last Date for Apply Online": "17 June 2025",
+        "Last Date Pay Exam Fee": "17 June 2025",
+        "Last Date Correction": "24 June 2025",
+        "Exam Date": "06-07 September 2025",
+        "Admit Card": "01 September 2025",
+        "Result": "Will Be Updated"
+      },
+      "ageLimit": {
+        "Minimum age": "18",
+        "Maximum age": "25"
+      },
+      "fees": {
+        "General/OBC": "₹185",
+        "SC/ST": "₹95",
+        "PH": "₹25"
+      },
+      "content": "<p><strong>How to download:</strong> Visit official website upsssc.gov.in → Examination → Preliminary Eligibility Test admit card. Login with Registration No. & DOB.</p><p>Carry printed admit card and ID proof to exam center.</p>",
+      "links": [
+        {"title":"Download Admit Card","link":"https://upsssc.gov.in/upssscadmitcard/AdmitCard.aspx?ID=P"},
+        {"title":"Download Exam City Details","https://upsssc.gov.in/upssscadvdistinti/AdmitCard_wc.aspx?ID=P&L=ac":""},
+        {"title":"Official Website","link":"https://upsssc.gov.in"},
+        {"title":"Exam Date Notification","link":"https://upsssc.gov.in/ViewPdf.aspx?diL50WkEATk0ljuG3v2ov3zevhE72Gr1VTAdcubLs3E="},
+        {"title":"Official Notification","link":"https://upsssc.gov.in/AllNotifications.aspx"}
+      ],
+      "quickLinks": [
+        {"title":"UPSSSC Home","link":"https://upsssc.gov.in"},
+        {"title":"Apply Online","link":"#"}
+      ]
+    }],
   "results": []
 }

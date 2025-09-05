@@ -7,7 +7,7 @@ async function loadDataJSON(path='data.json'){
     const r = await fetch(path,{cache:'no-cache'});
     if(!r.ok) throw new Error('Failed to load data.json');
     return await r.json();
-  }catch(e){
+  }catch(e){ 
     console.error(e);
     return null;
   }
@@ -47,7 +47,15 @@ function renderNotification(obj){
     }
     table.innerHTML = html;
   }
-
+ const at = obj.ageLimit || {};
+  const atable = document.getElementById('ageTable');
+  if(atable){
+    let html = '';
+    for(const k of Object.keys(at)){
+      html += `<tr><th>${k}</th><td>${at[k]}</td></tr>`;
+    }
+    atable.innerHTML = html;
+  }
   // fee table
   const feeTable = document.getElementById('feeTable');
   if(feeTable){
