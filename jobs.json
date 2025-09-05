@@ -1,18 +1,56 @@
 {
   "jobs": [
-    { "title": "SSC GD Constable Recruitment 2025", "link": "https://chatgpt.com/" },
-    { "title": "UP Police SI Online Form", "link": "#" },
-    { "title": "Railway Apprentice 2025", "link": "#" },
-    { "title": "UPSC Civil Services Exam 2025", "link": "#" }
+    { "title": "SSC GD Constable Recruitment 2025", "link": "#" },
+    { "title": "Railway Group D Vacancy 2025", "link": "#" },
+    { "title": "UPSC Civil Services Exam 2025", "link": "#" },
+    { "title": "Bank PO Recruitment 2025", "link": "#" },
+    { "title": "Delhi Police SI Vacancy 2025", "link": "#" },
+    { "title": "Indian Army Agniveer Recruitment 2025", "link": "#" },
+    { "title": "UP TGT PGT Teacher Vacancy 2025", "link": "#" },
+    { "title": "SSC JE Recruitment 2025", "link": "#" },
+    { "title": "RRB NTPC Recruitment 2025", "link": "#" },
+    { "title": "State PCS Exam 2025", "link": "#" },
+    { "title": "UP Police Constable Vacancy 2025", "link": "#" },
+    { "title": "SSC Stenographer Recruitment 2025", "link": "#" },
+    { "title": "Indian Navy SSR AA 2025", "link": "#" },
+    { "title": "LIC Assistant Recruitment 2025", "link": "#" },
+    { "title": "ESIC UDC Vacancy 2025", "link": "#" }
   ],
+
   "admitCards": [
-    { "title": "UPSC Prelims 2025 Admit Card", "link": "#" },
-    { "title": "SSC CHSL Tier I Admit Card", "link": "#" },
-    { "title": "CTET July 2025 Admit Card", "link": "#" }
+    { "title": "SSC CHSL Admit Card 2025", "link": "#" },
+    { "title": "Railway NTPC Admit Card 2025", "link": "#" },
+    { "title": "UPSC CSE Prelims Admit Card 2025", "link": "#" },
+    { "title": "IBPS PO Admit Card 2025", "link": "#" },
+    { "title": "SSC CGL Tier 1 Admit Card 2025", "link": "#" },
+    { "title": "Delhi Police SI Admit Card 2025", "link": "#" },
+    { "title": "UP Police Constable Admit Card 2025", "link": "#" },
+    { "title": "SSC JE Admit Card 2025", "link": "#" },
+    { "title": "Indian Army Agniveer Admit Card 2025", "link": "#" },
+    { "title": "RRB Group D Admit Card 2025", "link": "#" },
+    { "title": "UPTET Admit Card 2025", "link": "#" },
+    { "title": "CTET Admit Card 2025", "link": "#" },
+    { "title": "SSC Stenographer Admit Card 2025", "link": "#" },
+    { "title": "LIC Assistant Admit Card 2025", "link": "#" },
+    { "title": "ESIC UDC Admit Card 2025", "link": "#" }
   ],
+
   "results": [
-    { "title": "Railway Group D Result 2025", "link": "#" },
+    { "title": "UPSC Prelims Result 2025", "link": "#" },
     { "title": "SSC MTS Result 2025", "link": "#" },
-    { "title": "UP Board Class 12th Result", "link": "#" }
+    { "title": "Railway Group D Result 2025", "link": "#" },
+    { "title": "SSC CHSL Tier 1 Result 2025", "link": "#" },
+    { "title": "Bank PO Prelims Result 2025", "link": "#" },
+    { "title": "UP Police Constable Result 2025", "link": "#" },
+    { "title": "SSC CGL Tier 1 Result 2025", "link": "#" },
+    { "title": "Indian Army Agniveer Result 2025", "link": "#" },
+    { "title": "RRB NTPC Result 2025", "link": "#" },
+    { "title": "SSC JE Result 2025", "link": "#" },
+    { "title": "UPTET Result 2025", "link": "#" },
+    { "title": "CTET Result 2025", "link": "#" },
+    { "title": "LIC Assistant Result 2025", "link": "#" },
+    { "title": "ESIC UDC Result 2025", "link": "#" },
+    { "title": "State PCS Result 2025", "link": "#" }
   ]
 }
+
