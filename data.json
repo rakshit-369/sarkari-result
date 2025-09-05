@@ -22,9 +22,11 @@
       },
       "content": "<p><strong>How to download:</strong> Visit official website upsssc.gov.in → Examination → Preliminary Eligibility Test admit card. Login with Registration No. & DOB.</p><p>Carry printed admit card and ID proof to exam center.</p>",
       "links": [
-        {"title":"Download Admit Card","link":"#"},
-        {"title":"Download Exam City Details","link":"#"},
-        {"title":"Official Website","link":"https://upsssc.gov.in"}
+        {"title":"Download Admit Card","link":"https://upsssc.gov.in/upssscadmitcard/AdmitCard.aspx?ID=P"},
+        {"title":"Download Exam City Details","https://upsssc.gov.in/upssscadvdistinti/AdmitCard_wc.aspx?ID=P&L=ac":""},
+        {"title":"Official Website","link":"https://upsssc.gov.in"},
+        {"title":"Exam Date Notification","link":"https://upsssc.gov.in/ViewPdf.aspx?diL50WkEATk0ljuG3v2ov3zevhE72Gr1VTAdcubLs3E="},
+        {"title":"Official Notification","link":"https://upsssc.gov.in/AllNotifications.aspx"}
       ],
       "quickLinks": [
         {"title":"UPSSSC Home","link":"https://upsssc.gov.in"},
