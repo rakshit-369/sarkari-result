@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Notification - template</title>
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <link rel="stylesheet" href="common.css">
+</head>
+<body>
+
+  <div class="navbar">
+    <div class="brand">Sarkari Result</div>
+    <div class="links">
+      <a href="index.html">Home</a>
+      <a href="?category=jobs">Jobs</a>
+      <a href="?category=admit">Admit</a>
+      <a href="?category=results">Results</a>
+    </div>
+  </div>
+
+  <div class="wrapper">
+
+    <!-- header/title -->
+    <div class="head-panel card">
+      <h1 id="title">Loading...</h1>
+      <div class="meta">
+        <span id="metaDate"></span>
+      </div>
+      <div id="intro" style="margin-top:8px;color:var(--muted)"></div>
+    </div>
+
+    <div class="layout">
+
+      <!-- main content -->
+      <div id="main">
+        <div class="card">
+          <h2>Important Dates</h2>
+          <table class="kv-table" id="datesTable">
+            <!-- filled by JS -->
+          </table>
+        </div>
+
+        <div class="card" style="margin-top:var(--gap);">
+          <h2>Application Fee</h2>
+          <table class="kv-table" id="feeTable"></table>
+        </div>
+
+        <div class="card" style="margin-top:var(--gap);">
+          <h2>Details & Instructions</h2>
+          <div class="content" id="content">
+            <!-- long content goes here -->
+          </div>
+        </div>
+
+        <div class="card" style="margin-top:var(--gap);">
+          <h2>Important Links</h2>
+          <div id="links" class="links-grid"></div>
+        </div>
+      </div>
+
+      <!-- sidebar -->
+      <aside class="sidebar">
+        <div class="card widget">
+          <h3>Quick Links</h3>
+          <ul id="sideList"></ul>
+        </div>
+
+        <div class="card widget">
+          <h3>Also check</h3>
+          <ul id="otherList"></ul>
+        </div>
+      </aside>
+
+    </div>
+
+    <div class="page-footer">
+      <p>© 2025 SarkariResult — data driven template</p>
+    </div>
+
+  </div>
+
+  <script src="common.js"></script>
+  <script>
+    // call bootstrap with default data.json name (in same folder)
+    bootstrapNotification('data.json');
+  </script>
+</body>
+</html>
