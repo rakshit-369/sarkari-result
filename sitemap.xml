@@ -11,7 +11,7 @@
 
   <!-- Sarkari Result Page -->
   <url>
-    <loc>https://sarkari-result-one.vercel.app</loc>
+    <loc>https://sarkari-result-one.vercel.app/sarkariresult</loc>
     <lastmod>2025-09-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
