@@ -56,7 +56,7 @@ button, .btn {
   font-family: 'Montserrat', Arial, sans-serif;
   font-weight: 500;
   padding: 10px 20px;
-  background-color: #1a73e8;
+  background-color: #f8f8f2;
   color: white;
   border: none;
   border-radius: 5px;
@@ -64,7 +64,7 @@ button, .btn {
 }
 
 button:hover, .btn:hover {
-  background-color: #0c47a1;
+ background-color: #f8f9fa;
 }
 
 /* common.css
