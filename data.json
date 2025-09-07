@@ -111,54 +111,58 @@
   "quickLinks": [
     { "title": "RRB NTPC Home", "link": "https://indianrailways.gov.in/" }
   ]
-},
-{
-  "slug": "rrb-ntpc-10-12-admit-2025",
-  "title": "RRB NTPC 10+2 Inter Level Admit Card / Exam City Details 2025 – Out",
-  "postDate": "September 5, 2025",
-  "time": "11:01 am",
-  "excerpt": "Railway Recruitment Board (RRB) released Admit Card for NTPC 10+2 Inter Level Posts. Exam from 07 August – 08 September 2025.",
-  "importantDates": {
-    "Online Apply Start Date": "21 September 2024",
-    "Online Apply Last Date": "27 October 2024",
-    "Fee Payment Last Date": "29 October 2024",
-    "Correction / Modified Form": "30 September 2024 to 06 November 2024",
-    "Exam Date": "07 August – 08 September 2025",
-    "Exam City Details": "29 July 2025",
-    "Admit Card": "04 August 2025",
-    "Result": "Will be updated here soon"
-  },
-  "ageLimit": {
-    "Minimum age": "18",
-    "Maximum age": "33"
-  },
-  "fees": {
-    "General/OBC/EWS": "₹500",
-    "SC/ST/PH": "₹250",
-    "All Category Female": "₹250",
-    "Fee Refund General": "₹400",
-    "Fee Refund OBC/EWS/SC/ST/PH": "₹250",
-    "Fee Refund All Category Female": "₹250"
-  },
-  "edu":"<p>1.12 pass \n 2.Bachlor degree</p>",
-  "content": "<p>Railway Recruitment Board (RRB) has released Admit Card for NTPC 10+2 Inter Level Posts. Candidates can check their Exam Date and Admit Card details using Enrollment Number / Registration Number / Date of Birth by logging into the official portal. Download the admit card and take a printout for exam day reference. For eligibility, age limits, vacancy details, and selection process, check the official notification.</p>",
-  "links": [
-    {"title":"Download Admit Card","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
-    {"title":"Check Application Status Link","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
-    {"title":"Check Exam City Details","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
-    {"title":"Apply Online","link":"https://rrb.digialm.com//EForms/configuredHtml/2667/95125/login.html"},
-    {"title":"Check Official Notification","link":"https://www.rrbapply.gov.in/assets/forms/CEN_06-2024_NTPC_UnderGraduate_a11y.pdf"},
-    {"title":"Railway RRB Official Website","link":"https://indianrailways.gov.in/"}
-  ],
-  "quickLinks": [
-    {"title":"RRB NTPC Home","link":"https://indianrailways.gov.in/"}
-  ]
 }
+
 
 
 
   ],
   "jobs": [{
+  "slug": "rpsc-si-platoon-commander-recruitment-2025",
+  "title": "RPSC SI / Platoon Commander Recruitment 2025 – Apply Online for 1015 Posts",
+  "postDate": "September 6, 2025",
+  "time": "2:58 pm",
+  "excerpt": "Rajasthan Public Service Commission (RPSC) ने Sub Inspector / Platoon Commander भर्ती 2025 की अधिसूचना जारी की है। इसमें कुल 1015 पद हैं। आवेदन 10 अगस्त से 08 सितंबर 2025 तक होंगे।",
+  "importantDates": {
+    "Notification Date": "17 July 2025",
+    "Application Start": "10 August 2025",
+    "Last Date for Apply Online": "08 September 2025",
+    "Last Date Fee Payment": "08 September 2025",
+    "Exam Date": "Notify Later",
+    "Admit Card": "Before Exam",
+    "Result": "Will Be Updated"
+  },
+  "ageLimit": {
+    "Minimum Age": "20 Years",
+    "Maximum Age": "25 Years",
+    "Age Relaxation": "As per RPSC Rules"
+  },
+  "fees": {
+    "General / Other State": "₹600",
+    "OBC / BC / SC / ST": "₹400",
+    "Correction Charge": "₹500"
+  },
+  "vacancyDetails": {
+    "Total Posts": 1015,
+    "Breakup": {
+      "Sub Inspector": 951,
+      "Platoon Commander": 64
+    }
+  },
+  "eligibility": "Graduation in any stream from a recognized university. Working knowledge of Hindi written in Devnagari Script and knowledge of Rajasthani culture is required.",
+  "content": "<p><strong>How to Apply:</strong> Candidates can apply online through the official RPSC website before <b>08 September 2025</b>. Ensure to complete the fee payment and form submission before the last date.</p><p><strong>Selection Process:</strong> Written Exam → PET & PST Test → Personal Interview → Document Verification → Medical Examination.</p>",
+  "links": [
+    {"title": "Apply Online", "link": "https://recruitment.rajasthan.gov.in/"},
+    {"title": "Check Category Wise Post Details Notice", "link": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/48F34BFAB78F47CCB65BD3AB9BFE2E9A.pdf"},
+    {"title": "Official Notification", "link": "https://rpsc.rajasthan.gov.in/Static/RecruitmentAdvertisements/B87284F000614D55999928D873BD8B3E.pdf"},
+    {"title": "RPSC Official Website", "link": "https://rpsc.rajasthan.gov.in"}
+  ],
+  "quickLinks": [
+    {"title": "RPSC Home", "link": "https://rpsc.rajasthan.gov.in"},
+    {"title": "Sarkari Result Home", "link": "https://sarkari-result-one.vercel.app"}
+  ]
+},
+{
   "slug": "bpsc-school-teacher-tre4-recruitment-2025",
   "title": "BPSC School Teacher TRE 4.0 Recruitment 2025 – Apply Online",
   "postDate": "September 6, 2025",
@@ -204,43 +208,566 @@
     {"title": "BPSC Home", "link": "https://bpsc.bih.nic.in"},
     {"title": "Sarkari Result", "link": "https://sarkari-result-one.vercel.app.com"}
   ]
-}
-,{
-      "slug": "upsssc-pet-admit-2025",
-      "title": "UPSSSC PET Admit Card 2025 – Out",
-      "postDate": "September 5, 2025",
-      "time": "11:01 am",
-      "excerpt": "UPSSSC ने Preliminary Examination Test (PET) Admit Card 2025 जारी कर दिया है. Exam dates: 06-07 Sep 2025.",
-      "importantDates": {
-        "Application Start": "14 May 2025",
-        "Last Date for Apply Online": "17 June 2025",
-        "Last Date Pay Exam Fee": "17 June 2025",
-        "Last Date Correction": "24 June 2025",
-        "Exam Date": "06-07 September 2025",
-        "Admit Card": "01 September 2025",
-        "Result": "Will Be Updated"
-      },
-      "ageLimit": {
-        "Minimum age": "18",
-        "Maximum age": "25"
-      },
-      "fees": {
-        "General/OBC": "₹185",
-        "SC/ST": "₹95",
-        "PH": "₹25"
-      },
-      "content": "<p><strong>How to download:</strong> Visit official website upsssc.gov.in → Examination → Preliminary Eligibility Test admit card. Login with Registration No. & DOB.</p><p>Carry printed admit card and ID proof to exam center.</p>",
-      "links": [
-        {"title":"Download Admit Card","link":"https://upsssc.gov.in/upssscadmitcard/AdmitCard.aspx?ID=P"},
-        {"title":"Download Exam City Details","https://upsssc.gov.in/upssscadvdistinti/AdmitCard_wc.aspx?ID=P&L=ac":""},
-        {"title":"Official Website","link":"https://upsssc.gov.in"},
-        {"title":"Exam Date Notification","link":"https://upsssc.gov.in/ViewPdf.aspx?diL50WkEATk0ljuG3v2ov3zevhE72Gr1VTAdcubLs3E="},
-        {"title":"Official Notification","link":"https://upsssc.gov.in/AllNotifications.aspx"}
-      ],
-      "quickLinks": [
-        {"title":"UPSSSC Home","link":"https://upsssc.gov.in"},
-        {"title":"Apply Online","link":"#"}
+},
+{
+  "slug": "ib-junior-intelligence-officer-recruitment-2025",
+  "title": "IB Junior Intelligence Officer Grade II Recruitment 2025 – Apply Online for 394 Posts",
+  "postDate": "September 6, 2025",
+  "time": "2:57 pm",
+  "excerpt": "Intelligence Bureau (IB) ने Junior Intelligence Officer Grade II भर्ती 2025 की अधिसूचना जारी की है। इसमें कुल 394 पद हैं। आवेदन 23 अगस्त से 14 सितंबर 2025 तक होंगे।",
+  "importantDates": {
+    "Application Start": "23 August 2025",
+    "Last Date for Apply Online": "14 September 2025",
+    "Last Date Fee Payment": "14 September 2025",
+    "Exam Date": "Notify Later",
+    "Admit Card": "Before Exam",
+    "Result": "Will Be Updated"
+  },
+  "ageLimit": {
+    "Minimum Age": "18 Years",
+    "Maximum Age": "27 Years",
+    "Age Relaxation": "As per IB Rules"
+  },
+  "fees": {
+    "General / OBC / EWS": "₹650",
+    "SC / ST": "₹550",
+    "All Females": "₹550"
+  },
+  "vacancyDetails": {
+    "Total Posts": 394,
+    "Post Name": "IB Junior Intelligence Officer Grade II",
+    "Eligibility": [
+      "Diploma in Engineering in Electronics / Electronics & Telecommunication / Electronics & Communication / Electrical & Electronics / IT / Computer Science / Computer Engineering / Computer Applications.",
+      "Bachelor’s Degree in Science with Electronics / Computer Science / Physics / Mathematics.",
+      "Bachelor’s Degree in Computer Applications."
+    ]
+  },
+  "content": "<p><strong>How to Apply:</strong> Candidates can apply online through the official IB website before <b>14 September 2025</b>. Ensure to complete the fee payment and form submission before the last date.</p><p><strong>Selection Process:</strong> Written Exam (100 Marks) → Skill Test (30 Marks) → Interview Test (20 Marks) → Document Verification → Medical Examination.</p>",
+  "links": [
+    {"title": "Apply Online (Registration | Login)", "link": "#"},
+    {"title": "Official Notification", "link": "#"},
+    {"title": "IB Official Website", "link": "https://www.mha.gov.in"}
+  ],
+  "quickLinks": [
+    {"title": "IB Home", "link": "https://www.mha.gov.in"},
+    {"title": "Sarkari Result Home", "link": "https://sarkariresult.com"}
+  ]
+},
+  {
+    "slug": "bihar-bseb-sakshamta-pariksha-phase-4-5-recruitment-2025",
+    "title": "Bihar BSEB Sakshamta Pariksha Phase 4th & 5th Recruitment 2025 (Re-Open)",
+    "postDate": "September 7, 2025",
+    "time": "9:11 am",
+    "excerpt": "Bihar School Examination Board (BSEB) ने Sakshamta Pariksha Phase 4th & 5th Recruitment 2025 की अधिसूचना जारी की है। आवेदन 06 से 11 सितंबर 2025 तक पुनः खुले हैं।",
+    "importantDates": {
+      "Application Start": "06 September 2025",
+      "Last Date for Apply Online": "11 September 2025",
+      "Last Date Fee Payment": "11 September 2025",
+      "Exam Date": "Notify Soon",
+      "Admit Card": "Before Exam",
+      "Result": "Will Be Updated"
+    },
+    "ageLimit": {
+      "Minimum Age": "N/A",
+      "Maximum Age": "N/A",
+      "Age Relaxation": "As per BSEB Rules"
+    },
+    "fees": {
+      "General / EWS / BC / EBC": "₹1100",
+      "SC / ST / PWD": "₹1100"
+    },
+    "vacancyDetails": {
+      "Total Posts": "N/A",
+      "Eligibility": "Teachers working in Primary, Middle, Secondary, or Higher Secondary Schools (including Physical Education Teachers) and Librarians appointed by local bodies in the state can apply."
+    },
+    "content": "<p><strong>How to Apply:</strong> Candidates can apply online through the official BSEB website before <b>11 September 2025</b>. Ensure to complete the fee payment and form submission before the last date.</p><p><strong>Selection Process:</strong> Based on Written / Online Exam.</p>",
+    "links": [
+      {"title": "Apply Online (Registration | Login)", "link": "#"},
+      {"title": "Date Extend Notice", "link": "#"},
+      {"title": "Official Notification", "link": "#"},
+      {"title": "Bihar BSEB Official Website", "link": "http://biharboardonline.bihar.gov.in"}
+    ],
+    "quickLinks": [
+      {"title": "Bihar BSEB Home", "link": "http://biharboardonline.bihar.gov.in"},
+      {"title": "Sarkari Result Home", "link": "https://sarkariresult.com"}
+    ]
+  },
+  {
+    "slug": "bpsc-district-sports-officer-dso-recruitment-2025",
+    "title": "BPSC District Sports Officer DSO Recruitment 2025",
+    "postDate": "September 6, 2025",
+    "time": "2:56 pm",
+    "excerpt": "Bihar Public Service Commission (BPSC) ने District Sports Officer (DSO) Recruitment 2025 की अधिसूचना जारी की है। कुल 33 पदों के लिए आवेदन 02 से 26 सितंबर 2025 तक आमंत्रित किए गए हैं।",
+    "importantDates": {
+      "Application Start": "02 September 2025",
+      "Last Date for Apply Online": "26 September 2025",
+      "Last Date Fee Payment": "26 September 2025",
+      "Exam Date": "Notify Later",
+      "Admit Card": "Before Exam",
+      "Result": "Will Be Updated"
+    },
+    "ageLimit": {
+      "Minimum Age": "21 Years",
+      "Maximum Age (Male)": "37 Years",
+      "Maximum Age (Female UR, BC/EBC)": "40 Years",
+      "Maximum Age (SC/ST)": "42 Years",
+      "Age Relaxation": "As per BPSC Rules"
+    },
+    "fees": {
+      "All Candidates": "₹100"
+    },
+    "vacancyDetails": {
+      "Total Posts": "33",
+      "Eligibility": "Graduate with Diploma/PG Diploma in Sports Coaching from SAI, LNIPE Gwalior, Central Sports University, or UGC/Bihar recognized sports university. Candidate must also have sports achievements (International/National level representation or multiple participations in recognized championships)."
+    },
+    "content": "<p><strong>How to Apply:</strong> Candidates can apply online through the official BPSC website before <b>26 September 2025</b>. Ensure to complete the fee payment and form submission before the last date.</p><p><strong>Selection Process:</strong> Written Exam and Interview.</p>",
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Official Notification", "link": "#"},
+      {"title": "Bihar BPSC Official Website", "link": "http://www.bpsc.bih.nic.in"}
+    ],
+    "quickLinks": [
+      {"title": "BPSC Home", "link": "http://www.bpsc.bih.nic.in"},
+      {"title": "Sarkari Result Home", "link": "https://sarkariresult.com"}
+    ]
+  },
+  {
+    "slug": "bpsc-aedo-recruitment-2025",
+    "title": "BPSC AEDO Recruitment 2025",
+    "postDate": "September 6, 2025",
+    "time": "2:56 pm",
+    "excerpt": "Bihar Public Service Commission (BPSC) ने Assistant District Education Officer (AEDO) Recruitment 2025 की अधिसूचना जारी की है। कुल 935 पदों के लिए आवेदन 27 अगस्त से 26 सितंबर 2025 तक खुले हैं।",
+    "importantDates": {
+      "Application Start": "27 August 2025",
+      "Last Date for Apply Online": "26 September 2025",
+      "Last Date Fee Payment": "26 September 2025",
+      "Exam Date": "Notify Later",
+      "Admit Card": "Before Exam",
+      "Result": "Will Be Updated"
+    },
+    "ageLimit": {
+      "Minimum Age": "21 Years",
+      "Maximum Age (Male)": "37 Years",
+      "Maximum Age (Female UR, BC/EBC)": "40 Years",
+      "Maximum Age (SC/ST)": "42 Years",
+      "Age Relaxation": "As per BPSC Rules"
+    },
+    "fees": {
+      "All Candidates": "₹100"
+    },
+    "vacancyDetails": {
+      "Total Posts": "935",
+      "Eligibility": "Candidates must have a graduate degree from a recognized university or an equivalent qualification. For complete details, please check the official notification."
+    },
+    "content": "<p><strong>How to Apply:</strong> Candidates can apply online through the official BPSC website before <b>26 September 2025</b>. Ensure to complete the fee payment and form submission before the last date.</p><p><strong>Selection Process:</strong> Written Exam, Document Verification, and Medical Examination.</p>",
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Official Notification", "link": "#"},
+      {"title": "Bihar BPSC Official Website", "link": "http://www.bpsc.bih.nic.in"}
+    ],
+    "quickLinks": [
+      {"title": "BPSC Home", "link": "http://www.bpsc.bih.nic.in"},
+      {"title": "Sarkari Result Home", "link": "https://sarkariresult.com"}
+    ]
+  },
+  {
+    "slug": "bpsc-hod-recruitment-2025",
+    "title": "BPSC HOD Recruitment 2025 – Apply Online for 218 Posts",
+    "postDate": "September 6, 2025",
+    "time": "2:55 pm",
+    "excerpt": "Bihar Public Service Commission (BPSC) has released the notification for Head of Department (HOD) Recruitment 2025. Total 218 vacancies in multiple engineering and professional subjects. Apply online from 02 September 2025 to 30 September 2025.",
+    "importantDates": {
+      "Application Start": "02 September 2025",
+      "Last Date for Apply Online": "30 September 2025",
+      "Last Date for Fee Payment": "30 September 2025",
+      "Exam Date": "Notify Later",
+      "Admit Card": "Before Exam",
+      "Result Date": "Will Be Updated Soon"
+    },
+    "ageLimit": {
+      "Minimum": "33 Years",
+      "Maximum": "N/A"
+    },
+    "fees": {
+      "All Candidates": "₹100"
+    },
+    "vacancy": {
+      "totalPosts": 218,
+      "details": [
+        {"Post": "Mechanical Engg.", "Posts": 33},
+        {"Post": "Computer Science & Engg.", "Posts": 43},
+        {"Post": "Electrical Engg.", "Posts": 42},
+        {"Post": "Civil Engg.", "Posts": 45},
+        {"Post": "Electronics Engg.", "Posts": 39},
+        {"Post": "Others", "Posts": 16}
       ]
-    }],
+    },
+    "eligibility": "Candidates must have a Ph.D. in the relevant discipline with First Class in B.E./B.Tech or M.E./M.Tech (or equivalent) and 12-15 years of teaching/research/industry experience depending on the subject.",
+    "content": "<p><strong>How to Apply:</strong> Candidates can apply online for BPSC HOD Recruitment 2025 between 02 September 2025 and 30 September 2025. Use the Apply Online link or visit the BPSC official website.</p><p><strong>Mode of Selection:</strong> Based on Academic Background, Research Performance, Teaching Skills, and Interview.</p>",
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Official Notification", "link": "#"},
+      {"title": "BPSC Official Website", "link": "https://www.bpsc.bih.nic.in"}
+    ]
+  },
+  {
+    "slug": "ibps-rrb-14th-recruitment-2025",
+    "title": "IBPS RRB 14th Recruitment 2025 – Apply Online for 13217 Posts",
+    "postDate": "September 6, 2025",
+    "time": "2:55 pm",
+    "excerpt": "Institute of Banking Personnel Selection (IBPS) has released the notification for RRB XIV (14) recruitment. Total 13,217 vacancies for Office Assistant, Officer Scale-I, II & III. Apply online from 01 September 2025 to 21 September 2025.",
+    "importantDates": {
+      "Application Start": "01 September 2025",
+      "Last Date for Apply Online": "21 September 2025",
+      "Last Date for Fee Payment": "21 September 2025",
+      "PET Exam": "November 2025",
+      "Pre Exam": "November/December 2025",
+      "Mains Exam": "December 2025 / February 2026",
+      "Result": "January 2026",
+      "Interview": "January/February 2026"
+    },
+    "ageLimit": {
+      "Office Assistant": "18-28 Years",
+      "Officer Scale-I": "18-30 Years",
+      "Officer Scale-II": "21-32 Years",
+      "Officer Scale-III": "21-40 Years"
+    },
+    "fees": {
+      "General/OBC/EWS": "₹850",
+      "SC/ST/PH": "₹175"
+    },
+    "vacancy": {
+      "totalPosts": 13217,
+      "details": [
+        {"Post": "Office Assistant (Multipurpose)", "Posts": 7972},
+        {"Post": "Officer Scale-I", "Posts": 3907},
+        {"Post": "Officer Scale-II (General Banking)", "Posts": 854},
+        {"Post": "Officer Scale-II (Specialist)", "Posts": 285},
+        {"Post": "Officer Scale-III (Senior Manager)", "Posts": 199}
+      ]
+    },
+    "eligibility": "Graduation required for all posts. Specialist posts require professional qualifications (CA, MBA, Law, IT, Agriculture, etc.) with relevant experience (1-5 years). Proficiency in local language and computer knowledge desirable.",
+    "content": "<p><strong>How to Apply:</strong> Candidates can apply online for IBPS RRB 14th Recruitment 2025 between 01 September 2025 and 21 September 2025. Use the Apply Online link or visit the IBPS official website.</p><p><strong>Mode of Selection:</strong> Prelims Written Exam (All Posts), Mains Exam (Scale-I & Office Assistant), Interview (Scale-I, II, III only), Document Verification & Medical Examination.</p>",
+    "links": [
+      {"title": "Apply Online (Office Assistants)", "link": "#"},
+      {"title": "Apply Online (Officer Scale-I, II & III)", "link": "#"},
+      {"title": "Vacancy Details", "link": "#"},
+      {"title": "Official Notification", "link": "#"},
+      {"title": "IBPS Official Website", "link": "https://www.ibps.in"}
+    ]
+  },
+  {
+    "slug": "ib-security-assistant-motor-transport-recruitment-2025",
+    "title": "IB Security Assistant (Motor Transport) Recruitment 2025 – Apply Online",
+    "postDate": "September 6, 2025",
+    "time": "8:40 am",
+    "excerpt": "Ministry of Home Affairs (MHA) Intelligence Bureau (IB) has released notification for Security Assistant (Motor Transport) 2025 Recruitment. Total 455 vacancies. Apply online from 06 September to 28 September 2025.",
+    "importantDates": {
+      "Application Start": "06 September 2025",
+      "Last Date for Apply Online": "28 September 2025",
+      "Last Date for Fee Payment": "28 September 2025",
+      "Exam Date": "Notify Later",
+      "Admit Card": "Before Exam",
+      "Result Date": "Will Be Updated Soon"
+    },
+    "ageLimit": {
+      "Minimum": "18 Years",
+      "Maximum": {
+        "UR/EWS": "27 Years",
+        "OBC": "30 Years",
+        "SC/ST": "32 Years"
+      }
+    },
+    "fees": {
+      "General/OBC/EWS": "₹650/-",
+      "SC/ST": "₹550/-",
+      "All Females": "₹550/-"
+    },
+    "vacancy": {
+      "totalPosts": 455
+    },
+    "eligibility": {
+      "Education": "10th pass (Matriculation)",
+      "Driving": "Valid LMV license",
+      "Mechanical Knowledge": "Basic motor mechanics",
+      "Experience": "1 year driving experience",
+      "Residency": "Valid domicile certificate"
+    },
+    "modeOfSelection": ["Tier-I", "Tier-II", "Merit List"],
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Check Official Notification", "link": "#"},
+      {"title": "IB Official Website", "link": "https://mha.gov.in"}
+    ]
+  },
+  {
+    "slug": "railway-rrb-paramedical-staff-recruitment-2025",
+    "title": "Railway RRB Paramedical Staff Recruitment 2025 – 434 Posts",
+    "postDate": "September 4, 2025",
+    "time": "10:58 pm",
+    "excerpt": "Railway Recruitment Board (RRB) has released notification for Paramedical Staff Recruitment 2025. Total 434 vacancies. Apply online from 09 August to 18 September 2025.",
+    "importantDates": {
+      "Application Start": "09 August 2025",
+      "Last Date for Apply Online": "18 September 2025",
+      "Last Date for Fee Payment": "20 September 2025",
+      "Form Edit/Modify": "21-30 September 2025",
+      "Exam Date": "Notified Soon",
+      "Admit Card": "Before Exam",
+      "Result Date": "Will Be Updated Soon"
+    },
+    "ageLimit": {
+      "Minimum": "18 Years",
+      "Maximum": "40 Years"
+    },
+    "fees": {
+      "General/OBC/EWS": "₹500/-",
+      "SC/ST/EBC": "₹250/-",
+      "Female (All Category)": "₹250/-"
+    },
+    "vacancy": {
+      "totalPosts": 434
+    },
+    "eligibility": {
+      "Nursing Superintendent": "GNM / B.Sc Nursing",
+      "Pharmacist": "Degree / Diploma in Pharmacy",
+      "Radiographer": "Diploma in Radiography / X-Ray Technician / Radiodiagnosis Technology",
+      "Health & Malaria Inspector Grade-II": "B.Sc with Chemistry + 1-year Diploma in Health/Sanitary Inspector",
+      "Lab Assistant Grade-II": "Diploma in Medical Laboratory Technology (DMLT)",
+      "Dialysis Technician": "B.Sc + Diploma in Hemodialysis",
+      "ECG Technician": "Degree / Diploma in ECG / Cardiology Technology"
+    },
+    "modeOfSelection": ["Written Exam", "Document Verification", "Medical Examination"],
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Check Official Notification", "link": "#"},
+      {"title": "RRB Official Website", "link": "https://indianrailways.gov.in"}
+    ]
+  },
+  {
+    "slug": "uppsc-assistant-professor-recruitment-2025",
+    "title": "UPPSC Assistant Professor Recruitment 2025 – 1253 Posts",
+    "postDate": "September 4, 2025",
+    "time": "5:40 pm",
+    "excerpt": "Uttar Pradesh Public Service Commission (UPPSC) has released notification for Assistant Professor Recruitment 2025. Total 1253 vacancies. Apply online from 04 September to 06 October 2025.",
+    "importantDates": {
+      "Application Start": "04 September 2025",
+      "Last Date for Apply Online": "06 October 2025",
+      "Last Date for Fee Payment": "06 October 2025",
+      "Correction Last Date": "13 October 2025",
+      "Exam Date": "Notified Soon",
+      "Admit Card": "Before Exam",
+      "Result Date": "Will Be Updated Soon"
+    },
+    "ageLimit": {
+      "Minimum": "21 Years",
+      "Maximum": "40 Years"
+    },
+    "fees": {
+      "General/OBC/EWS": "₹125/-",
+      "SC/ST": "₹65/-",
+      "Ex-Service": "₹65/-",
+      "PH": "₹25/-"
+    },
+    "vacancy": {
+      "totalPosts": 1253,
+      "categoryWise": {
+        "General": 556,
+        "EWS": 111,
+        "OBC": 315,
+        "SC": 232,
+        "ST": 30
+      }
+    },
+    "eligibility": {
+      "Education": "Master’s degree in relevant subject with 55% marks + UGC NET qualification or Ph.D. as per UGC regulations",
+      "Subjects": ["Botany","Chemistry","Commerce","Economics","Education","English","Geography","Hindi","History","Home Science","Mathematics","Military Science","Philosophy","Physical Education","Physics","Political Science","Psychology","Sanskrit","Sociology","Urdu","Zoology","Statistics","Computer Science","Persian"]
+    },
+    "modeOfSelection": ["Pre Exam", "Mains Exam", "Interview"],
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Check Official Notification", "link": "#"},
+      {"title": "UPPSC Official Website", "link": "https://uppsc.up.nic.in"}
+    ]
+  },
+  {
+    "slug": "rpsc-1st-grade-teacher-agriculture-recruitment-2025",
+    "title": "RPSC 1st Grade Teacher (Agriculture) Recruitment 2025 – 500 Posts",
+    "postDate": "September 4, 2025",
+    "time": "10:23 am",
+    "excerpt": "Rajasthan Public Service Commission (RPSC) has released notification for 1st Grade Teacher (Agriculture) Recruitment 2025. Total 500 vacancies. Apply online from 04 September to 03 October 2025.",
+    "importantDates": {
+      "Notification Date": "28 August 2025",
+      "Application Start": "04 September 2025",
+      "Last Date for Apply Online": "03 October 2025",
+      "Last Date for Fee Payment": "03 October 2025",
+      "Exam Date": "Notify Later",
+      "Admit Card": "Before Exam",
+      "Result Date": "Will Be Updated Soon"
+    },
+    "ageLimit": {
+      "Minimum": "21 Years",
+      "Maximum": "40 Years"
+    },
+    "fees": {
+      "General/Other State": "₹600/-",
+      "SC/ST/OBC/BC": "₹400/-",
+      "Correction Charge": "₹500/-"
+    },
+    "vacancy": {
+      "totalPosts": 500
+    },
+    "eligibility": {
+      "Education": "4-year Bachelor’s in Agriculture/Horticulture (UGC) + Postgraduate degree in relevant subject + B.Ed. (NCTE recognized)",
+      "Additional": "Working knowledge of Hindi in Devanagari script and understanding of Rajasthani culture"
+    },
+    "modeOfSelection": ["Written Examination", "Document Verification", "Medical Examination"],
+    "links": [
+      {"title": "Apply Online", "link": "#"},
+      {"title": "Check Official Notification", "link": "#"},
+      {"title": "RPSC Official Website", "link": "https://rpsc.rajasthan.gov.in"}
+    ]
+  },
+  {
+  "slug": "indian-army-ncc-123rd-course-april-2026",
+  "title": "Indian Army NCC 123rd Course April 2026 Online Form – 76 Posts",
+  "postDate": "August 12, 2025",
+  "time": "3:09 pm",
+  "excerpt": "Join Indian Army has released notification for NCC 123rd Special Entry Scheme April 2026 Course (Men & Women). Total 76 vacancies. Apply online from 12 August to 11 September 2025.",
+  "importantDates": {
+    "Application Start": "12 August 2025",
+    "Last Date for Apply Online (Men)": "11 September 2025",
+    "Last Date for Apply Online (Women)": "11 September 2025",
+    "Exam Date": "Notify Soon",
+    "Admit Card": "Before Exam",
+    "Result Date": "Will Be Updated Soon"
+  },
+  "ageLimit": {
+    "Minimum": "19 Years",
+    "Maximum": "25 Years"
+  },
+  "fees": {
+    "All Candidates": "No Fee"
+  },
+  "vacancy": {
+    "totalPosts": 76,
+    "categoryWise": {
+      "NCC Men": 63,
+      "NCC Women": 5,
+      "Ward of Battle Casualties": 8
+    }
+  },
+  "eligibility": {
+    "NCC – C Certificate Holder": "Bachelor’s degree in any stream with at least 50% marks + minimum 2-year NCC certificate. Final year candidates eligible.",
+    "Ward of Battle Casualties": "Bachelor’s degree in any stream with at least 50% marks."
+  },
+  "documentsRequired": [
+    "Matriculation Certificate (DOB proof)",
+    "Degree Certificate (if completed)",
+    "Semester-wise / Consolidated Marksheets",
+    "Final Year Certificate (if applicable)",
+    "Aadhar Card",
+    "Category Certificate (if applicable)",
+    "Photograph",
+    "Signature",
+    "Widows of Defence Personnel proof (if applicable)"
+  ],
+  "modeOfSelection": ["Shortlisting", "Medical Examination"],
+  "links": [
+    {"title": "Apply Online (Male)", "link": "#"},
+    {"title": "Apply Online (Female)", "link": "#"},
+    {"title": "Check Official Notification", "link": "#"},
+    {"title": "Indian Army Official Website", "link": "https://indianarmy.nic.in"}
+  ]
+},
+
+{
+  "slug": "up-police-si-recruitment-2025",
+  "title": "UP Police Sub Inspector (SI) Online Form 2025 – 4543 Posts",
+  "postDate": "August 28, 2025",
+  "time": "5:49 pm",
+  "excerpt": "Uttar Pradesh Police Recruitment and Promotion Board (UPPRPB) has released notification for Sub Inspector, Platoon Commander posts. Total 4543 vacancies. Apply online from 12 August to 11 September 2025.",
+  "importantDates": {
+    "Notification Date": "28 March 2025",
+    "Application Start": "12 August 2025",
+    "Application Last Date": "11 September 2025",
+    "Last Date for Fee Payment": "11 September 2025",
+    "Exam Date": "Notify Soon",
+    "Admit Card": "Before Exam",
+    "Result Date": "Will Be Updated Soon"
+  },
+  "ageLimit": {
+    "Minimum": "21 Years",
+    "Maximum": "28 Years"
+  },
+  "fees": {
+    "General/OBC/EWS": "₹500",
+    "SC/ST": "₹400"
+  },
+  "vacancy": {
+    "totalPosts": 4543,
+    "postWise": {
+      "Sub Inspector (Civil Police)": 4242,
+      "Sub Inspector (Civil Police)- Female": 106,
+      "Platoon Commander / Sub Inspector (Civil Police)": 135,
+      "SI / Platoon Commander (Special Security Force)": 60
+    }
+  },
+  "eligibility": {
+    "Educational Qualification": "Graduation degree from a recognized university or equivalent. Mandatory upload of mark sheets or provisional degree.",
+    "Preference Qualification": [
+      "Passing 'O' Level Computer Examination by NIELIT or equivalent",
+      "Minimum 2 years service in Territorial Army",
+      "'B' Certificate from NCC"
+    ]
+  },
+  "physicalStandards": {
+    "Male": {
+      "UR/OBC/SC": {"Height": "168 CM", "Chest": "79-84 CM"},
+      "ST": {"Height": "160 CM", "Chest": "77-82 CM"}
+    },
+    "Female": {
+      "UR/OBC/SC": {"Height": "152 CM", "Min Weight": "40 KG"},
+      "ST": {"Height": "147 CM", "Min Weight": "40 KG"}
+    }
+  },
+  "physicalEfficiencyTest": {
+    "Male": {"Race Distance": "4.8 KM", "Time Duration": "28 Min"},
+    "Female": {"Race Distance": "2.4 KM", "Time Duration": "16 Min"}
+  },
+  "documentsRequired": [
+    "Passport-sized photograph",
+    "Signature",
+    "Educational Certificates (10th, 10+2, Graduation)",
+    "Caste Certificate (if applicable)",
+    "Aadhaar Card / Govt ID",
+    "Income Certificate (if EWS)",
+    "Other special category certificates (PH, Ex-servicemen, etc.)"
+  ],
+  "modeOfSelection": [
+    "Written Exam",
+    "Physical Efficiency Test (PET)",
+    "Physical Standard Test (PST)",
+    "Document Verification",
+    "Medical Test"
+  ],
+  "links": [
+    {"title": "Apply Online", "link": "#"},
+    {"title": "Check Degree Related Notice", "link": "#"},
+    {"title": "Download Official Notification", "link": "#"},
+    {"title": "Download Syllabus / Exam Pattern", "link": "#"},
+    {"title": "UP Police Official Website", "link": "https://uppbpb.gov.in"}
+  ]
+}
+
+
+
+
+
+
+
+],
+
+
+
   "results": []
 }
