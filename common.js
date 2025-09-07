@@ -119,7 +119,7 @@ async function bootstrapNotification(dataPath='data.json'){
     obj = list[0] || null;
   }
   renderNotification(obj);
-
+document.title=slug;
   // render small "more items" in sidebar (other items)
   const other = (list||[]).slice(0,8);
   const otherUl = document.getElementById('otherList');
