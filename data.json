@@ -159,6 +159,53 @@
 
   ],
   "jobs": [{
+  "slug": "bpsc-school-teacher-tre4-recruitment-2025",
+  "title": "BPSC School Teacher TRE 4.0 Recruitment 2025 – Apply Online",
+  "postDate": "September 6, 2025",
+  "time": "2:59 pm",
+  "excerpt": "Bihar Public Service Commission (BPSC) ने TRE 4.0 School Teacher भर्ती 2025 की अधिसूचना जारी कर दी है। इसमें कुल 27,910 पद हैं। आवेदन सितंबर 2025 से शुरू होंगे। परीक्षा 16-19 दिसंबर 2025 तक आयोजित होगी।",
+  "importantDates": {
+    "Online Apply Start Date": "September 2025",
+    "Online Apply Last Date": "September 2025",
+    "Last Date For Fee Payment": "September 2025",
+    "Exam Date": "16-19 December 2025",
+    "Admit Card": "December 2025",
+    "Result Date": "20-24 January 2026"
+  },
+  "ageLimit": {
+    "Minimum age (Class 1 to 8)": "18",
+    "Minimum age (Class 9 to 12)": "21",
+    "Maximum age (UR-Male)": "37",
+    "Maximum age (UR-Female)": "40",
+    "Maximum age (BC/EBC)": "40",
+    "Maximum age (SC/ST)": "42"
+  },
+  "fees": {
+    "All Category": "₹100",
+    "Payment Mode": "Debit Card / Credit Card / Net Banking / IMPS / Wallet"
+  },
+  "vacancy": {
+    "Total Post": "27910"
+  },
+  "eligibility": {
+    "Class 1 to 5": "Bachelor Degree with 50% + B.Ed OR 10+2 with 2 Year D.El.Ed OR 4 Year BLEd OR CTET/BTET Paper I Qualified",
+    "Class 6 to 8": "Graduate with D.El.Ed OR Graduate/Post Graduate with 50% + B.Ed OR BA B.Ed / B.Sc B.Ed OR PG with 55% + 3 Year B.Ed-M.Ed",
+    "Class 9 to 10 (TGT)": "Graduate/Post Graduate in Subject with 50% + B.Ed OR BA B.Ed / B.Sc B.Ed OR STET Paper I Qualified",
+    "Class 9 to 10 (TGT-Special)": "Graduate/Post Graduate in Subject with 50% + B.Ed OR BA B.Ed / B.Sc B.Ed OR STET Paper I Qualified",
+    "Class 11 to 12 (PGT)": "Post Graduate in Subject with 50% + B.Ed OR PG with 55% + 3 Year B.Ed-M.Ed OR STET Paper II Qualified"
+  },
+  "content": "<p><strong>How to Apply:</strong> इच्छुक उम्मीदवार BPSC की आधिकारिक वेबसाइट पर जाकर सितंबर 2025 से ऑनलाइन आवेदन कर सकते हैं। आवेदन करने से पहले आधिकारिक अधिसूचना जरूर पढ़ें।</p><p>आवेदन के लिए पासपोर्ट साइज फोटो, हस्ताक्षर, शैक्षिक प्रमाण पत्र, जाति प्रमाण पत्र, आधार कार्ड और अन्य आवश्यक दस्तावेज अपलोड करने होंगे।</p><p><strong>Selection Process:</strong> लिखित परीक्षा और दस्तावेज़ सत्यापन (DV)।</p>",
+  "links": [
+    {"title": "Link activate soon", "link": "#"},
+    {"title": "Link activate soon", "link": "#"},
+    {"title": "Official Website", "link": "https://bpsc.bih.nic.in"}
+  ],
+  "quickLinks": [
+    {"title": "BPSC Home", "link": "https://bpsc.bih.nic.in"},
+    {"title": "Sarkari Result", "link": "https://sarkari-result-one.vercel.app.com"}
+  ]
+}
+,{
       "slug": "upsssc-pet-admit-2025",
       "title": "UPSSSC PET Admit Card 2025 – Out",
       "postDate": "September 5, 2025",
