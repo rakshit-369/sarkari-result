@@ -751,10 +751,9 @@
     "Medical Test"
   ],
   "links": [
-    {"title": "Apply Online", "link": "#"},
-    {"title": "Check Degree Related Notice", "link": "#"},
-    {"title": "Download Official Notification", "link": "#"},
-    {"title": "Download Syllabus / Exam Pattern", "link": "#"},
+    {"title": "Apply Online", "link": "https://www.upprpb.in/#/auth/landing"},
+    {"title": "Check Degree Related Notice", "link": "https://uppbpb.gov.in/FilesUploaded/Notice/SI-Form-Clarification312c6d42-dfe4-49a6-9f97-a4e1d6f52940.pdf"},
+    {"title": "Download Official Notification", "link": "https://uppbpb.gov.in/FilesUploaded/Notice/SI_vigyapti_202567e84cf2-8d04-4072-bdbc-56f3c8e1ccbe.pdf"},
     {"title": "UP Police Official Website", "link": "https://uppbpb.gov.in"}
   ]
 }
